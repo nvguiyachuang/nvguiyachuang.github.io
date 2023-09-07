@@ -1,0 +1,14 @@
+
+**/.idea/*
+**/target/*
+
+.idea
+*.iml
+*.class
+
+/${project.basedir}/
+
+/node_modules/
+
+/.vitepress/cache/
+
